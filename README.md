@@ -15,7 +15,11 @@ I was provided with a retail data Excel sheet and tasked with answering four key
 - Monthly revenue trends revealed significant seasonal peaks, which can guide future marketing and sales strategies.
 - The top 10 companies and customers contributed to a substantial portion of the overall revenue, emphasizing the importance of maintaining strong relationships with these key players.
 
-# 📈 Tools & Techniques:
+# 🖥 Tools & Techniques:
 - Data Cleaning:Ensured accuracy and consistency in the dataset.
 - Data Analysis:Used pivot tables and advanced Excel functions to extract meaningful insights.
 - Data Visualization:Created clear and compelling visualizations using Tableau to present findings effectively.
+
+ # 📈 Dashboard
+ ![image](https://github.com/user-attachments/assets/6b11a3b6-1f67-45a3-be64-0ee1644d9a7a)
+
